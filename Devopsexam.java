@@ -1,4 +1,4 @@
-puublic class Devopsexam
+public class Devopsexam
   {
     public static void main(String[] args)
     {
